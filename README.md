@@ -21,4 +21,4 @@ A simple model using k-means clustering to classify football teams based on thei
 
 *   **Dominant Possession:** This style signifies complete control of the game through high ball possession. Teams with this label dominate possession metrics, create numerous scoring opportunities, and concede very few shots, demonstrating a high level of both attacking and defensive control.
 
-*   **Mixed Attack (11):** This style indicates a team that doesn't exhibit a single dominant attacking strategy. They may display elements of different styles depending on the game situation and opponent. *Key Data Trends: Moderate possession (`Poss` ~ 1.2), moderate-high passing metrics, moderate shots (`Shots` ~ 0.8), moderate progressive actions.*
+*   **Mixed Attack:** This style indicates a team that doesn't exhibit a single dominant attacking strategy. They may display elements of different styles depending on the game situation and opponent.
